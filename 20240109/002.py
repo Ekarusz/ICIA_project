@@ -17,7 +17,7 @@ tno=tno+1
 for item in todos:
     print(item)
 
-# Update : tno(번호)로 todos를 찾아 finish를 toggle
+# Update : tno(번호)로 todos를 찾아 finish를 toggle(toggle=변경?)
 #          못 찾으면 아무것도 하지 않는다
     
 # input_tno=int(input('찾을 할일번호:'))
